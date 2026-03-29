@@ -1,0 +1,5 @@
+load STM32F401RETx
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "F:\M.Tech\Semester_1\Subjects\Embedded_System_Design\Lab_Assignment\2025NS01562\Question_3\STM32CubeMX\Target_1"
+SetCopyLibrary "copy only"
